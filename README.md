@@ -1,1 +1,1 @@
-# Go Düşük Seviye Çalışmalar
+# Golang çalışmalar.
